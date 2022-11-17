@@ -5,6 +5,7 @@ class dashboard extends Component {
         return (
             <div>
                 <h1>dashboard</h1>
+                <p>this is ali</p>
             </div>
         );
     }
