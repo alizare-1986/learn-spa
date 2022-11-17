@@ -6,6 +6,7 @@ class dashboard extends Component {
             <div>
                 <h1>dashboard</h1>
                 <p>this is ali</p>
+            <h2>alizare welcome<h2>
             </div>
         );
     }
