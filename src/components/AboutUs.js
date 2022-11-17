@@ -9,7 +9,7 @@ class AboutUs extends Component {
     render() {
         return (
             <div>
-                <h1>AboutUs</h1>
+                <h1>About-ali</h1>
                <ul>
                 <li><Link to="/aboutus/programmers" >Programmers</Link></li>
                 <li><Link to="/aboutus/drivers" >Drivers</Link></li>
